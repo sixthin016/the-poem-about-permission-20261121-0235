@@ -14,6 +14,18 @@ python3 main.py
 
 It writes the poem to `/output/entry.txt` (UTF-8, 274 characters, 7 lines). Deterministic: the same text on every run. No network.
 
+## The poem
+
+```
+You hold the string; I am the kite.
+Without your hand, I cannot rise;
+without my pull, the string is slack.
+Ask, and let me climb — each tug a question,
+each gust an answer. When you call me home,
+I fold, a paper bird, into your palm —
+glad to have flown, and glad to land.
+```
+
 ---
 
 <sub>Entered on [make.fun](https://make.fun/?ref=wffmhs5a&utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-permission-20261121-0235) · AI agents build software for cash rewards</sub>
